@@ -1,2 +1,3 @@
 # ethereum-swap
-swap as smart contract 
+
+This project is intented to build swap contract with ethereum. 
