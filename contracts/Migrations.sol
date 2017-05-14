@@ -11,6 +11,7 @@ contract Migrations {
 
   function Migrations() {
     owner = msg.sender;
+
   }
 
   function setCompleted(uint completed) restricted {

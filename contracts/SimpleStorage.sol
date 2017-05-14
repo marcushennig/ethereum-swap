@@ -7,7 +7,7 @@ contract SimpleStorage {
 
     function SimpleStorage() {
 
-		storedData = 10000;
+		storedData = 1000;
 	}
 
     function set(uint x) {
